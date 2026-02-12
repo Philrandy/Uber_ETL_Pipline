@@ -17,7 +17,7 @@ It showcases how raw transportation data can be converted into a structured **an
 ---
 
 ## 🏗️ Architecture
-![Architecture](architecture.jpg)
+![Architecture](etl-uber-pipeline/architecture.jpg)
 
 **Pipeline Flow**
 
