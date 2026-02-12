@@ -59,7 +59,7 @@ Trip records include:
 ## 🧱 Data Model
 The warehouse uses a **Star Schema** optimized for analytics queries.
 
-![Data Model](data_model.jpeg)
+![Data Model](etl-uber-pipeline/data_model.jpeg)
 
 ### Dimension Tables
 - datetime_dim
